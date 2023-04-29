@@ -1,0 +1,17 @@
+{
+    "name": "Motivational Quote Extension",
+    "description": "Get your daily dose of motivation here",
+    "author": "Subhani Syed",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "icons":{
+        "16": "icon16.png",
+        "48": "icon32.png",
+        "128": "icon96.png"
+    },
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Quotes",
+        "default_icon":"icon32"
+    }
+}
