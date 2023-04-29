@@ -12,6 +12,6 @@
     "action": {
         "default_popup": "index.html",
         "default_title": "Quotes",
-        "default_icon":"icon32"
+        "default_icon":"icon32.png"
     }
 }
